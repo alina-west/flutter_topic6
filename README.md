@@ -31,7 +31,10 @@ The User Registration App is a Flutter project designed to facilitate user regis
 To run the project:
 
 1)Install Flutter on your development environment.
+
 2)Clone the project repository to your local machine.
+
 3)Open the project in your preferred Flutter IDE.
+
 4)Run the application on an emulator or physical device to experience the registration process firsthand.
 
